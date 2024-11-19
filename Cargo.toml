@@ -1,0 +1,10 @@
+[package]
+name = "minils"
+description = "A reimplementation of exa from the ground up"
+version = "0.1.0-alpha"
+license = "GPL-3.0"
+edition = "2021"
+authors = ["Benjamín Flores"]
+repository = "https://github.com/thought-eater/minils"
+
+[dependencies]
